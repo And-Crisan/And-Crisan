@@ -1,9 +1,20 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=and-crisan&label=Profile%20views&color=0e75b6&style=flat" alt="and-crisan" /> </p>
+
 ![MasterHead](https://media.licdn.com/dms/image/D4D12AQF2byjIdGCIhg/article-cover_image-shrink_600_2000/0/1664736616370?e=2147483647&v=beta&t=nAGJh6btEWLe-URkoXn5l9cUlI8OyhnAQ9GOjDFx4kY)
+<h1 align="center">Hi 👋, I'm Andonis Crisan</h1>
+<h3 align="center">UK-based developer with a flair for software solutions.</h3>
+<br>
 
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 # 💫 About Me:<br>
 <br>🔭 I’m currently working on Tunning BERT to be your therapist<br><br>🌱 I’m currently learning Frameworks, Databases<br><br>💬 Ask me about Java, OOP<br><br>📫 How to reach me crisanandonis@yahoo.com<br><br>⚡ Fun fact I am an accordion virtuoso 🪗
+
+
+
+
+
+
 
 
 ## 🌐 Socials:
